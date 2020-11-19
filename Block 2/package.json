@@ -1,0 +1,9 @@
+{
+  "name": "js-llr1ac",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^14.14.8",
+    "node-fetch": "^2.6.1"
+  }
+}
